@@ -1,6 +1,7 @@
 import  math
 from typing import List
 
+
 Vector = List[float]
 
 
